@@ -10,6 +10,21 @@ namespace week1_day3
     {
         static void Main(string[] args)
         {
+            int firstNumber = 2;
+            int secondNumber = 6;
+            if (firstNumber > secondNumber) 
+            {
+                //if this is true do something
+                Console.WriteLine("you have broken math. good job");
+            }
+            else
+            {
+                // do something else
+                Console.WriteLine(" that makes sense");
+                
+
+            }
+
         }
     }
 }
